@@ -1,0 +1,8 @@
+{
+    "downloadPath": "E:\\Games\\Arcaea\\APK",
+    "apiUrl": "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk",
+    "autoCheck": {
+        "enabled": true,
+        "interval": 600000
+    }
+}
