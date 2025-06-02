@@ -1,5 +1,5 @@
 {
-    "downloadPath": "E:\\Games\\Arcaea\\APK",
+    "downloadPath": "自己填",
     "apiUrls": [
         "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk",
         "可选其他的url 但是得自己找"
