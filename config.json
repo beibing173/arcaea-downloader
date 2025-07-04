@@ -2,7 +2,7 @@
     "downloadPath": "自己填",
     "apiUrls": [
         "https://webapi.lowiro.com/webapi/serve/static/bin/arcaea/apk",
-        "可选其他的url 但是得自己找"
+        "https://arcaea-static.lowiro-cdn.net/mPBNj5QiFOs%2BLIK%2FqWigjhGY6WF0Q3idFf2GfMJOivnbS%2FDj3YMdUNzw9UP1HYHDHjkTuTjGbfTj8riHZJTBqBmwrPhFiTCTqYeJpKIzAlbnkxXTxUYEkdpb%2FKRanaxtgQElvtjLWqAsmcU%3D?filename=arcaea_6.6.1c.apk"
     ],
     "autoCheck": {
         "enabled": true,
